@@ -1,0 +1,9 @@
+.vscode
+bin
+obj
+wwwroot
+*.db
+publish
+Properties
+.vs
+CarGarageBackEnd.csproj.user
